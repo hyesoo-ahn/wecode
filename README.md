@@ -1,0 +1,3 @@
+- git init: 깃 초기화
+- git checkout branch: 깃 브랜치 이동
+- git status: 현재 깃 상태 확인
